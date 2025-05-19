@@ -51,6 +51,16 @@ Um jogo da forca simples e interativo desenvolvido com HTML, CSS e JavaScript. O
 * Incluir animações e efeitos sonoros para feedback visual e auditivo
 * Ajustes no design para dispositivos móveis
 
+## 📸 Demonstração
+
+Aqui você pode adicionar uma imagem ou GIF do jogo em funcionamento:
+
+```markdown
+![Demonstração do Jogo](./images/Hangman-game-print.png)
+```
+
+---
+
 ## 📜 Licença
 
 Este projeto é open-source e está licenciado sob a Licença MIT.
