@@ -58,7 +58,6 @@ Aqui você pode adicionar uma imagem ou GIF do jogo em funcionamento:
 ```markdown
 ![Demonstração do Jogo](images/Hangman-game-print.jpeg)
 
-<img src="images/ilangman-game-print.jpeg" width="400">
 ```
 
 ---
